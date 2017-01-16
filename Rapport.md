@@ -28,7 +28,7 @@
 
 ## SSTIC
 
-L'objectif du Symposium sur la sécurité des technologies de l'information et des communications (SSTIC) L'objectif du SSTIC est de provoquer
+L'objectif du Symposium sur la sécurité des technologies de l'information et des communications (SSTIC) est de provoquer
  la rencontre et la discussion entre ces publics très variés, autour de présentations sur l'état actuel de la sécurité informatique en France et dans le monde.
  
 ## Objectif du challenge
@@ -72,4 +72,19 @@ Les fichiers sont donc sous la forme :
 * ZIP Central Directory File Header
 * ZIP Local File Header
 		
-![Format du fichier zip](images/zip.png "Format du fichier zip")	
+![Format du fichier zip](images/zip.png "Format du fichier zip")
+
+
+
+
+***********************
+
+#====================
+#
+# Git anti conflict
+#
+#====================
+
+************************
+
+
